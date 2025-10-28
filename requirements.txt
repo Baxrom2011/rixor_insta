@@ -3,6 +3,4 @@ telebot
 moviepy
 instaloader
 uuid
-shutil
-types
-VideoFileClip
+
